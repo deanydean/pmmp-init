@@ -12,5 +12,4 @@ Run the docker image with:
 
 `$ docker run -it -p 19132:19132/udp <name> `
 
-Once the container is running, you can connect from your MCPE app on port
-19132. 
+Once the container is running, you can connect from your MCPE app on port 19132. 
